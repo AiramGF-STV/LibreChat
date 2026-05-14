@@ -4,3 +4,7 @@ mcpServers:
   mcp-stv:
     url: http://mcp-server-stv.railway.internal:3001/sse
     type: sse
+
+mcpSettings:
+  allowedDomains:
+    - "mcp-stv"

@@ -7,4 +7,4 @@ mcpServers:
 
 mcpSettings:
   allowedDomains:
-    - "mcp-stv"
+    - "mcp-server-stv.railway.internal"

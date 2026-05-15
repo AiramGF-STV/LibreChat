@@ -7,4 +7,4 @@ mcpServers:
 
 mcpSettings:
   allowedDomains:
-    - "mcpstv.railway.internal:3001"
+    - "mcpstv.railway.internal"

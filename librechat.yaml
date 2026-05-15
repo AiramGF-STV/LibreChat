@@ -5,8 +5,9 @@ mcpSettings:
     - "mcpstv.railway.internal:3001"
 
 mcpServers:
-  mi-mcp:
+  mcp-stv:
     type: sse
+    description: "Servidor MCP diseñado para STV"
     url: http://mcpstv.railway.internal:3001/sse
     timeout: 30000
     initTimeout: 10000

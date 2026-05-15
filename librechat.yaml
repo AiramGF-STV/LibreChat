@@ -3,12 +3,8 @@ version: 1.3.11
 speech:
   speechTab:
     textToSpeech: true
-    engineTTS: "browser"
-    languageTTS: "es"
+    engineTTS: 'browser'
     automaticPlayback: true
-    cacheTTS: false
-  tts:
-    autoRead: true
 
 mcpSettings:
   allowedAddresses:

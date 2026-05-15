@@ -4,6 +4,9 @@ speech:
   speechTab:
     textToSpeech: true
     engineTTS: "browser"
+    languageTTS: "es"
+    automaticPlayback: true
+    cacheTTS: false
 
 mcpSettings:
   allowedAddresses:
